@@ -57,6 +57,7 @@
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
             android:background="@color/colorPrimary"
+            android:onClick="rollClicked"
             android:text="@string/button_text"
             android:textColor="@android:color/white" />
     </RelativeLayout>
